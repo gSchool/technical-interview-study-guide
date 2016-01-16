@@ -41,7 +41,7 @@ Front end positions are focused on writing code that runs in a web browser like 
   
   1. Creating and fine tuning user interfaces in the browser,
     * HTML and CSS manipulation with JavaScript *(selectors, event bindings)*,
-    * Through the use of a front-end framework / library *(Angular, JQuery ...)*, 
+    * Through the use of a front-end framework / library *([Angular](https://github.com/gSchool/angular-curriculum), JQuery ...)*, 
     *  User experience and design -- or executing the designs of others *(A / B testing)*,  
 		
   2. Communication with web servers and APIs over HTTP
@@ -49,7 +49,7 @@ Front end positions are focused on writing code that runs in a web browser like 
     * Browser requests *(HTTP methods and routing, HTML forms, AJAX)*,
     * Asset delivery *(HTML especially `<head>`, `<script>`, `<style>`)*,
     * User Input *(`<form>`, `<input>`, event bindings, selectors)*,
-    * Through the use of a frontend framework or library *(Angular, JQuery ...)*
+    * Through the use of a frontend framework or library *([Angular](https://github.com/gSchool/angular-curriculum), JQuery ...)*
 
 ### If you want to go Full Stack
 
