@@ -1,3 +1,7 @@
+WARNING, this repo has been deprecated. 
+
+Updates to this study guide are being made at it's new location:[https://github.com/gSchool/outcomes-curriculum/blob/master/Unit-1/10-roles-study-guide.md](https://github.com/gSchool/outcomes-curriculum/blob/master/Unit-1/10-roles-study-guide.md). Several forks of this markdown file have already been made so we're leaving this repository here for posterity. However, if you have suggestions or edits please make them at the updated location in the outcomes-curriculum. 
+
 # Interview Study Guide
 
 
